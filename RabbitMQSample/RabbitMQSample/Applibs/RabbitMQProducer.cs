@@ -21,7 +21,7 @@
             prop.Expiration = ConfigHelper.RmqExpiration;
 
             channel.BasicPublish(
-                $"Exchange-{ExchangeType.Direct}-{topicName}",
+                $"Exchange-{ExchangeType.Fanout}-{topicName}",
                 string.Empty,
                 prop,
                 body);

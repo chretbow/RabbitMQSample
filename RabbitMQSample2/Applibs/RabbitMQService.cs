@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace RabbitMQSample.Applibs
+namespace RabbitMQSample2.Applibs
 {
     internal static class RabbitMQService
     {

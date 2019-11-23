@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQSample", "RabbitMQS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQSample.Domain", "RabbitMQSample.Domain\RabbitMQSample.Domain.csproj", "{7E36D63F-4717-4F20-9106-AC9E8881949F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQSample2", "..\RabbitMQSample2\RabbitMQSample2.csproj", "{03318DEC-4737-4F4A-89AE-D19C68F54027}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7E36D63F-4717-4F20-9106-AC9E8881949F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E36D63F-4717-4F20-9106-AC9E8881949F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E36D63F-4717-4F20-9106-AC9E8881949F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03318DEC-4737-4F4A-89AE-D19C68F54027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03318DEC-4737-4F4A-89AE-D19C68F54027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03318DEC-4737-4F4A-89AE-D19C68F54027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03318DEC-4737-4F4A-89AE-D19C68F54027}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

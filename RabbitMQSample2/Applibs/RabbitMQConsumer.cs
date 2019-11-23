@@ -1,10 +1,10 @@
 ﻿
-namespace RabbitMQSample.Applibs
+namespace RabbitMQSample2.Applibs
 {
     using Newtonsoft.Json;
     using RabbitMQ.Client;
     using RabbitMQ.Client.Events;
-    using RabbitMQSample.Model;
+    using RabbitMQSample2.Model;
     using System;
     using System.Collections.Generic;
     using System.Linq;
